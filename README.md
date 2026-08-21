@@ -1,6 +1,6 @@
 # Jiyoung Park
 
-Software Developer · System Analysis & Design
+Software Developer · Currently Learning Data & AI
 
 ## Career
 

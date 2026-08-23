@@ -5,7 +5,7 @@ Software Developer · Currently Learning Data & AI
 ## Career
 
 - LG CNS – Financial Business Division
-       - Analysis & Design of Shinhan Card Issuance System
+- Analysis & Design of Shinhan Card Issuance System
 - Game Shop E-commerce Development
 - SM Calendar / Tourcat App Development
 

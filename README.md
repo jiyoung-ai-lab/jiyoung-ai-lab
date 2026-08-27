@@ -4,7 +4,7 @@ Software Developer · Currently Learning Data & AI
 
 ## Career
 
-- LG CNS – Financial Business Division
+- Financial Business Division
 - Analysis & Design of Shinhan Card Issuance System
 - Game Shop E-commerce Development
 - SM Calendar / Tourcat App Development
@@ -18,6 +18,7 @@ Software Developer · Currently Learning Data & AI
 - Oracle
 - DB2
 - Mainframe
+- Kotlin + AWS
 
 ## Currently Learning
 

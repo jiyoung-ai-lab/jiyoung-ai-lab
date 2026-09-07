@@ -10,7 +10,7 @@ Software Developer · Currently Learning Data & AI
 - SM Calendar / Tourcat App Development
 
 ## Skills
-
+- Visual Basic
 - Java
 - COBOL
 - JavaScript
@@ -23,7 +23,7 @@ Software Developer · Currently Learning Data & AI
 ## Currently Learning
 
 - Data Analysis
-- AI / Machine Learning
+- AI / Machine Learning / Deep Learning
 - Python
 
-Currently, I am learning new technologies through an AI Engineer Bootcamp program.
+Currently, I am learning new technologies through an AI Engineer program.

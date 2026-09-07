@@ -15,8 +15,7 @@ Software Developer · Currently Learning Data & AI
 - COBOL
 - JavaScript
 - JSP
-- Oracle
-- DB2
+- Oracle  / DB2
 - Mainframe
 - Kotlin + AWS
 

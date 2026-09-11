@@ -4,10 +4,10 @@ Software Developer · Currently Learning Data & AI
 
 ## Career
 
-- Financial Business Division
-- Analysis & Design of Shinhan Card Issuance System
-- Game Shop E-commerce Development
-- SM Calendar / Tourcat App Development
+- LG CNS : Financial Business Division , Analysis & Design of Shinhan Card Issuance System
+- TmaxSoft : Samsung Life Insurance Proposal & Premium Calculation System
+- Cymon : Game Shop E-commerce Development
+- WaveApp(Independent App Development): SM Calendar / Tourcat App Development
 
 ## Skills
 - Visual Basic
@@ -16,12 +16,12 @@ Software Developer · Currently Learning Data & AI
 - JavaScript
 - JSP
 - Oracle  / DB2 
-- Kotlin + AWS
+- Kotlin + AWS 
 
 ## Currently Learning
 
 - Data Analysis
-- AI / Machine Learning / Deep Learning
+- AI / Machine Learning / Deep Learning 
 - Python
 
 Currently, I am learning new technologies through an AI Engineer Tech.

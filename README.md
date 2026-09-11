@@ -24,4 +24,4 @@ Software Developer · Currently Learning Data & AI
 - AI / Machine Learning / Deep Learning
 - Python
 
-Currently, I am learning new technologies through an AI Engineer program.
+Currently, I am learning new technologies through an AI Engineer Tech.

@@ -16,12 +16,14 @@ Software Developer · Currently Learning Data & AI
 - JavaScript
 - JSP
 - Oracle  / DB2 
-- Kotlin + AWS 
+- Kotlin
+- AWS + OpenAI API
 
 ## Currently Learning
 
 - Data Analysis
 - AI / Machine Learning / Deep Learning 
 - Python
+- 
 
-Currently, I am learning new technologies through an AI Engineer Tech.
+Currently, I am learning new technologies through an AI Engineer.

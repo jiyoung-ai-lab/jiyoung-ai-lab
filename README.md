@@ -2,10 +2,7 @@
 
 Software Developer · Data & AI Learning
 
-- LG CNS — Shinhan Card Issuance System
-- TmaxSoft — Samsung Life Insurance System
-- Cymon — Game Shop E-commerce
-- WaveApp — SM Calendar / Tourcat
+Software development experience in financial systems, Android applications, and e-commerce.
 
 #### Tech Stack
 

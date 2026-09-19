@@ -1,4 +1,4 @@
-#### Jiyoung Park
+#### Profile
 
 Software Developer · Data & AI Learning
 

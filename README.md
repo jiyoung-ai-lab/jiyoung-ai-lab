@@ -1,28 +1,19 @@
-# Jiyoung Park
+#### Jiyoung Park
 
-Software Developer · Currently Learning Data & AI
+Software Developer · Data & AI Learning
 
-## Career
+- LG CNS — Shinhan Card Issuance System
+- TmaxSoft — Samsung Life Insurance System
+- Cymon — Game Shop E-commerce
+- WaveApp — SM Calendar / Tourcat
 
-- LG CNS : Financial Business Division , Analysis & Design of Shinhan Card Issuance System
-- TmaxSoft : Samsung Life Insurance Proposal & Premium Calculation System
-- Cymon : Game Shop E-commerce Development
-- WaveApp(Independent App Development): SM Calendar / Tourcat App Development
+#### Tech Stack
 
-## Skills
-- Visual Basic
-- Java
-- COBOL
-- JavaScript
-- JSP
-- Oracle  / DB2 
-- Kotlin
-- AWS + OpenAI API
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat\&logo=openjdk\&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat\&logo=kotlin\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat\&logo=pytorch\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat\&logo=amazonaws\&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat\&logo=openai\&logoColor=white)
 
-## Currently Learning
-
-- Data Analysis
-- AI / Machine Learning / Deep Learning 
-- Python 
-
-Currently, I am learning new technologies through an AI Engineer.
+Currently Learning: Data Analysis, Machine Learning, Deep Learning

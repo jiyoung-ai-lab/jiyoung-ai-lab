@@ -1,10 +1,8 @@
-#### Profile
 
 Software Developer · Data & AI Learning
 
 Software development experience in financial systems, Android applications, and e-commerce.
 
-#### Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat\&logo=kotlin\&logoColor=white)

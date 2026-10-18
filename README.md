@@ -1,7 +1,7 @@
 
 Software Developer · AI & Data Projects
 
-Building on software development experience in financial systems, Android applications, and e-commerce, I explore and build AI-powered projects and data analysis solutions.
+Software development experience in finance, Android, and e-commerce. Building AI-powered projects and exploring data analytics.
 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)

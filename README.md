@@ -1,8 +1,6 @@
+Software Developer · AI · Computer Vision
 
-Software Developer · AI & Data Projects
-
-Software development experience in finance, Android, and e-commerce. Building AI-powered projects and exploring data analytics.
-
+Building AI-powered projects and exploring neural simulation and 3D environments.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
